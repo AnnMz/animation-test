@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/circular_reveal"
+            android:icon="@drawable/ic_bubble_chart_black_24dp"
+            android:title="@string/circular_reveal" />
+
+        <item
+            android:id="@+id/horizontal_moving"
+            android:icon="@drawable/ic_settings_ethernet_black_24dp"
+            android:title="@string/horizontal_moving" />
+
+        <item
+            android:id="@+id/animator_set"
+            android:icon="@drawable/ic_filter_none_black_24dp"
+            android:title="@string/animator_set" />
+
+        <item
+            android:id="@+id/spring"
+            android:icon="@drawable/ic_filter_vintage_black_24dp"
+            android:title="@string/spring" />
+
+        <item
+            android:id="@+id/state_list_animator"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="@string/state_list_animator" />
+
+        <item
+            android:id="@+id/animated_vector_drawable"
+            android:icon="@drawable/ic_plus"
+            android:title="@string/animated_vector_drawable" />
+
+        <item
+            android:id="@+id/lottie"
+            android:icon="@drawable/ic_toys_black_24dp"
+            android:title="@string/lottie_animation" />
+    </group>
+</menu>

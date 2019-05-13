@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AnimationsTest</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Some animations</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- menu item titles -->
+    <string name="circular_reveal">Circular reveal</string>
+    <string name="horizontal_moving">Horizontal moving</string>
+    <string name="animator_set">Animator set</string>
+    <string name="spring">Spring</string>
+    <string name="state_list_animator">State list animator</string>
+    <string name="animated_vector_drawable">Animated vector drawable</string>
+    <string name="lottie_animation">Lottie animation</string>
+
+    <string name="accelerate_interpolator">1. AccelerateInterpolator</string>
+    <string name="decelerate_interpolator">2. DecelerateInterpolator</string>
+    <string name="accelerate_decelerate_interpolator">3. AccelerateDecelerateInterpolator</string>
+    <string name="anticipate_interpolator">4. AnticipateInterpolator</string>
+    <string name="overshoot_interpolator">5. OvershootInterpolator</string>
+    <string name="anticipate_overshoot_interpolator">6. AnticipateOvershootInterpolator</string>
+    <string name="bounce_interpolator">7. BounceInterpolator</string>
+
+    <string name="damping_ratio_template">Damping ratio:\n%s</string>
+    <string name="stiffness_template">Stiffness:\n%s</string>
+
+    <string name="like_text">I like you too!</string>
+</resources>
